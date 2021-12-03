@@ -8,7 +8,7 @@ This project is currently owned and maintained by the [SIG Contribex Mentoring S
 
 ## Contribute
 
-We are always looking for people to help us improve the automation. Look at our [contributing guide](CONTRIBUTING.md) to get started.
+We are always looking for people to help us improve the katacoda scenario with more use cases. Look at our [contributing guide](CONTRIBUTING.md) to get started.
 
 Please feel free to join our [weekly meetings](https://github.com/kubernetes/community/tree/master/sig-contributor-experience#mentoring) or reach out to the maintainers of this project.
 
