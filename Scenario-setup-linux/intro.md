@@ -1,0 +1,2 @@
+Welcome to the scenario tho help setting up kubernetes for getting started with upstream contribution!
+In this scenario you will learn about how to setup kubernetes in your local system(here: Ubuntu) for upstream contrbution to k8s, push a few changes and run through some common tests that will get you an idea about how the Github Actions CI vets code contributions before labelling it ready for merge.
