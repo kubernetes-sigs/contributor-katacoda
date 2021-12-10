@@ -2,7 +2,7 @@
 
 Welcome to Contributor Katacoda!
 
-This repository hosts Katacoda scenarios for aspiring contributors and aims to familiarize them with the process of contributing to Kubernetes. 
+This repository hosts [Katacoda scenarios](https://katacoda.com/k8scontributors) for aspiring contributors and aims to familiarize them with the process of contributing to Kubernetes. 
 
 This project is currently owned and maintained by the [SIG Contribex Mentoring Subproject](https://github.com/kubernetes/community/tree/master/mentoring)
 
