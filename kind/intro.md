@@ -1,4 +1,4 @@
-# Use Kind for Local development and Continious Integration
+# Use Kind for Local development and Continuous Integration
 
 Welcome to the scenario tho help setting up kind for local development and CI/CD.
 
