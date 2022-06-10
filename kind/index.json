@@ -1,0 +1,41 @@
+{
+    "title": "Kind",
+    "description": "Use Kind for Local development and Continuous Integration",
+    "difficulty": "beginner",
+    "time": "10 minutes",
+    "details": {
+      "steps": [{
+        "title": "Step 1 - What is kind?",
+        "text": "step1.md"
+    },
+    {
+        "title":"Step 2 - Install basic tools",
+        "text": "step2.md"
+    },
+    
+    {
+      "title": "Step 3 - How kind works",
+      "text": "step3.md"
+    },
+    {
+      "title": "Step 4 - Testing",
+      "text": "step4.md"
+    }
+            ],
+      "intro": {
+        "text": "intro.md",
+        "credits": ""
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      
+      "uilayout": "terminal",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    },
+    "backend": {
+      "imageid": "ubuntu:2004"
+    }
+  }
